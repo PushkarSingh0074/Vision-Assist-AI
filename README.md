@@ -8,9 +8,7 @@
 
 A voice-first computer vision platform that reads, understands and describes any image. A trained gatekeeper routes each image to the right specialist models, and a fusion engine turns their outputs into one spoken answer.
 
-## 🚀 [Live demo: visionassist-ai-delta.vercel.app](https://visionassist-ai-delta.vercel.app/)
-
-> **Note:** This is a showcase repository. The source code is private and **available for review on request**. Contact me at hks20071979@gmail.com or on [LinkedIn](https://www.linkedin.com/in/pushkar-singh-048458285/).
+> **Note:** This is a showcase repository. The source code is private and **available for review on request**, along with a live demo. Contact me at hks20071979@gmail.com or on [LinkedIn](https://www.linkedin.com/in/pushkar-singh-048458285/).
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
